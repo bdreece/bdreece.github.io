@@ -34,6 +34,8 @@
   For a more updated rundown of what I'm currently up to, either check out the
   [updates](#updates) section of this page, or my [GitHub README](/bdreece).
 
+  [Back to Top](#bdreece.github.io)
+
 ### Projects
 
   Here is a running list of my active and released projects:
@@ -43,6 +45,8 @@
   * [esp32-pa1010d-demo](/esp32-pa1010d-demo)
   * [pid-controller](/pid-controller)
   * [prog (0.1.0)](/prog)
+
+  [Back to Top](#bdreece.github.io)
 
 ### Updates
 
@@ -62,3 +66,5 @@
   * MicroPython applications:
     * P2P application-layer protocol
     * Threading module
+
+  [Back to Top](#bdreece.github.io)
