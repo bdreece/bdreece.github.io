@@ -1,7 +1,7 @@
 # bdreece.github.io
 
-  Brian Reece
-  Fifth-year Undergraduate Student, Michigan Technological University
+  Brian Reece,
+  Fifth-year Undergraduate Student, Michigan Technological University,
   Payload Subsystem Driver Developer, MTU Aerospace Enterprise SFW Team
 
 ## Navigation
