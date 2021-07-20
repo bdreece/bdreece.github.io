@@ -51,7 +51,7 @@
   Here is a running list of my active and released projects:
 
   * [create-project (0.1.0)](/create-project)
-  * [data-structures](/data-structures)
+  * [c-structures](/c-structures)
   * [esp32-pa1010d-demo](/esp32-pa1010d-demo)
   * [pid-controller](/pid-controller)
   * [prog (0.1.0)](/prog)
@@ -75,6 +75,5 @@
     * RISC-V HAL
   * MicroPython applications:
     * P2P application-layer protocol
-    * Threading module
 
   [Back to Top](#navigation)
