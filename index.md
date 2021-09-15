@@ -49,7 +49,8 @@
 ### Projects
 
   Here is a running list of my active and released projects:
-
+  
+  * [AVR-ICM7212 (0.1.0)](/AVR-ICM7212)
   * [create-project (0.1.0)](/create-project)
   * [c-structures](/c-structures)
   * [esp32-pa1010d-demo](/esp32-pa1010d-demo)
