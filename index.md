@@ -53,10 +53,10 @@
   * [AVR-ICM7212 (0.1.0)](/AVR-ICM7212)
   * [AVR-MLX90614](/AVR-MLX90614)
   * [create-project (0.1.0)](/create-project)
-  * [c-structures](/c-structures)
+  * [c-structs](/c-structs)
   * [esp32-pa1010d-demo](/esp32-pa1010d-demo)
   * [pid-controller](/pid-controller)
-  * [prog (0.1.0)](/prog)
+  * [prog (0.1.2)](/prog)
 
   [Back to Top](#navigation)
 
