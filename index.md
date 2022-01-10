@@ -50,13 +50,16 @@
 
   Here is a running list of my active and released projects:
   
-  * [AVR-ICM7212 (0.1.0)](/AVR-ICM7212)
-  * [AVR-MLX90614](/AVR-MLX90614)
-  * [create-project (0.1.0)](/create-project)
-  * [c-structs](/c-structs)
+  * [avr-icm7212 (v0.1)](/avr-icm7212)
+  * [avr-mlx90614 (v0.1)](/avr-mlx90614)
+  * [conway (v0.1.0-alpha)](/conway)
   * [esp32-pa1010d-demo](/esp32-pa1010d-demo)
-  * [pid-controller](/pid-controller)
+  * [libstructs (v0.2-alpha)](/libstructs)
+  * [pid-controller (0.1.0)](/pid-controller)
   * [prog (0.1.2)](/prog)
+  * [sieve](/sieve)
+  * [tinybroker](/tinybroker)
+  * [todoo](/todoo)
 
   [Back to Top](#navigation)
 
@@ -66,16 +69,13 @@
   I am trying my best to continue working on projects on a regular basis. With
   that being said, here is what I have been working on:
 
-  * Learning Programming Languages/Frameworks:
+  * Learning Programming Languages:
     * Rust
     * Golang
-    * Kotlin
-    * Javascript (React.js)
+    * Zig
+    * Javascript
     * Assembly (RISC-V, AVR, ARM)
-  * Embedded HAL development:
-    * AVR HAL
-    * RISC-V HAL
-  * MicroPython applications:
-    * P2P application-layer protocol
+  * CLI Tools (see prog, todoo)
+  * Solidifying C skills
 
   [Back to Top](#navigation)
