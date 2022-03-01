@@ -58,7 +58,7 @@
   * [pid-controller (0.1.0)](/pid-controller)
   * [prog (0.1.2)](/prog)
   * [sieve](/sieve)
-  * [tinybroker](/tinybroker)
+  * [tinybroker (v0.2-alpha)](/tinybroker)
   * [todoo](/todoo)
 
   [Back to Top](#navigation)
